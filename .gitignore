@@ -1,0 +1,13 @@
+.DS_Store
+
+/.build/
+/.swiftpm/
+/.venv/
+
+__pycache__/
+*.pyc
+
+/pet-photos/*
+!/pet-photos/blueberry.jpg
+
+/pet-packs/
